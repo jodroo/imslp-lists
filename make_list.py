@@ -8,7 +8,7 @@ import pandas as pd
 PAGE_HEADER = """\
 {{worklist|Haydn, Michael}}
 
-{{Bluebox|'''Note''': This page is currently under construction, as more and more works are added. Last change on 2023-12-30.}}
+{{Bluebox|'''Note''': This page is semi-automatically generated from [https://github.com/edition-esser-skala/imslp-lists/blob/main/data/michael_haydn.csv this table]. Thus, any changes or corrections should be preferably entered in the source table.}}
 
 The table below gives the following information (where applicable):
 * '''MH''' — numbering as given in Charles H. Sherman and T. Donley Thomas, Johann Michael Haydn (1737–1806). A Chronological Thematic Catalogue of His Works (Stuyvesant, New York, 1993).
@@ -80,10 +80,7 @@ def format_date(date: Union[str, pd.Timestamp]) -> str:
 def main() -> None:
     """Main function."""
 
-    works = pd.read_csv(
-        "data/michael_haydn.csv",
-        nrows=200
-    )
+    works = pd.read_csv("data/michael_haydn.csv")
 
     table_rows = [
         TABLE_ROW_TEMPLATE.format(
@@ -94,7 +91,7 @@ def main() -> None:
             ),
             key=format_key(work.key),  # type: ignore[attr-defined]
             date=format_date(work.date),  # type: ignore[attr-defined]
-            genre=work.genre_imslp,  # type: ignore[attr-defined]
+            genre=work.genre,  # type: ignore[attr-defined]
             notes="" if pd.isna(work.notes) else work.notes  # type: ignore[attr-defined]
         )
         for work in works.itertuples()
