@@ -45,7 +45,7 @@ id,title,genre,date,key,title_imslp,notes,sources
 44,Missa,masses,c. 1760–1762,C major,,,
 45,Spiritus Domini. Veni Creator Spiritus,offertories,c. 1760–1762,B-flat major,,,D-B Mus. ms. 10231 (452009960)
 46,In omnem terram,offertories,c. 1760–1762,B-flat major,"In omnem terram, MH 46",,
-47,Civitatem. Festina lente,motets,c. 1760–1762,G major,,lost,
+47,Ut tibi dulces,motets,c. 1760–1762,G major,"Ut tibi dulces, MH 47",lost,
 48,Vidi civitatem. Coelestis inter caetus,motets,c. 1760–1762,C major,,,A-KR D 16/102 (600176354)
 49,Ave maris stella,hymns,c. 1760–1762,G major,,,A-Wn F24.St.Peter.D154
 50,Sinfonia,sinfonias,c. 1760–1762,D major,,,
@@ -73,7 +73,7 @@ id,title,genre,date,key,title_imslp,notes,sources
 72,Ave Maria,offertories,1765,F major,,,A-RB R 183 (600033561)
 73,Ninfe in belli semplicete,sacred cantatas,1765-01-15,D major,Ninfe in belli semplicete,Chorus reworked into MH 539,
 74,Litaniae lauretanae,litanies,1765-12-06,B-flat major,"Lytaniæ Lauretanæ, MH 74",revised as MH 88,
-75,Urbs Jerusalem,hymns,1766,G major,,,
+75,Urbs Jerusalem,hymns,1766,G major,"Urbs Jerusalem, MH 75",,
 76,Rebekka als Braut,singspiele,1766-04-10,G major,,,
 77,Dedit mihi,introits,c. 1766,B-flat major,,,A-Sd A 584 (659000666)
 78,Invictus heros,hymns,c. 1766,D minor,,,A-Sd A 582 (659000664)
@@ -91,21 +91,21 @@ id,title,genre,date,key,title_imslp,notes,sources
 90,Salve Regina,antiphons,c. 1765–1768,B-flat major,,,A-GÖ 2302
 91,Salve Regina,antiphons,c. 1765–1768,C major,,,"HR-Zha, H-Bn"
 92,Alma redemptoris mater,antiphons,c. 1765–1768,D major,,fragment for soprano and continuo,
-93,Regina coeli,antiphons,c. 1765–1768,E-flat major,,,
+93,Regina coeli,antiphons,c. 1765–1768,E-flat major,"Regina coeli, MH 93",,
 94,Regina coeli,antiphons,c. 1765–1768,E major,,,A-Gd Ms. 47
 95,Eia laeti exsultemus,offertories,c. 1765–1768,A major,,,HR-Zha LXVI.M (500027077)
 96,Veni Sancte Spiritus,offertories,c. 1765–1768,D major,,,"A-WIL, A-Ee"
-97,Cantate Domino,arias,c. 1765–1768,D major,,,
-98,Asperges me,antiphons,c. 1765–1768,F major,,,
-99,Vidi aquam,antiphons,c. 1765–1768,C major,,,
+97,Cantate Domino,arias,c. 1765–1768,D major,"Cantate Domino, MH 97",,
+98,Asperges me,antiphons,c. 1765–1768,F major,"Asperges me, MH 98",,
+99,Vidi aquam,antiphons,c. 1765–1768,C major,"Vidi aquam, MH 99",,
 100,Jesu corona Virginum,hymns,c. 1765–1768,A minor,,,A-LA 1398 (603002683)
-101,O salutaris hostia,hymns,c. 1765–1768,D major,,,A-RB R 175 (600033553)
+101,O salutaris hostia,hymns,c. 1765–1768,D major,"O salutaris hostia, MH 101",,A-RB R 175 (600033553)
 102,Laudate pueri,psalms,c. 1765–1768,A minor,,,A-Ee
 103,Alma redemptoris mater,antiphons,c. 1765–1768,A major,,,CZ-Pnm A-N no sig (601000069)
 104,Concerto,concertos,c. 1765–1768,D major,"Trumpet Concerto No.2 in D major, MH 104",,
 105,Concerto,concertos,c. 1765–1768,D major,,,
 106,Der Kampf der Buße und Bekehrung,sacred oratorios,1768-02-21,E-flat major,,,
-107,Die Hochzeit auf der Alm,operettas,1768-05-06,G major,"Die Hochzeit der Alm, MH 107",supplemental music in MH 218; “Lobet ihr Kräfte” reworked into MH 542,
+107,Die Hochzeit auf der Alm,operettas,1768-05-06,G major,"Die Hochzeit der Alm, MH 107",supplemental music in MH 218, “Lobet ihr Kräfte” reworked into MH 542
 108,Sinfonia,sinfonias,after 1768-05-06,G major,,uses material from MH 107,
 109,Missa Sancti Nicolai Tolentini,masses,1768-09-17,C major,,,
 110,Litaniae de venerabili sacramento,litanies,1768-10-10,B-flat major,"Litaniae de Venerabili Sacramento, MH 110",,
@@ -121,12 +121,12 @@ id,title,genre,date,key,title_imslp,notes,sources
 120,Litaniae de Beata Virgine Maria,litanies,c. 1768–1770,C major,"Litaniae Lauretanae, MH 120",spurious attribution,
 121,Ecce Virgo,offertories,c. 1768–1770,C major,,lost,
 122,Nos conservat,offertories,c. 1768–1770,D major,,,"A-Ssp Hay 1530.1, A-LA 1381 (603002662)"
-123,Non me avertet,offertories,c. 1768–1770,E-flat major,,spurious attribution,
+123,Non me avertet,offertories,c. 1768–1770,E-flat major,"Non me a te avertet, MH 123",spurious attribution,
 124,Tubae resonatae,offertories,c. 1768–1770,C major,,,"A-Ssp Hay 1550.1, A-KR D 25/350 (600176353)"
 125,Tenebrae,responsories,c. 1768–1770,A major,,,
-126,Vexilla Regis,hymns,c. 1768–1770,G minor,,,
+126,Vexilla Regis,hymns,c. 1768–1770,G minor,"Vexilla Regis, MH 126",,
 127,Ave Regina,antiphons,c. 1768–1770,E-flat major,,,D-WS 334 (450039957)
-128,Regina coeli,antiphons,c. 1768–1770,D major,,spurious attribution,
+128,Regina coeli,antiphons,c. 1768–1770,D major,"Regina coeli, MH 128",spurious attribution,
 129,Salve Regina,antiphons,c. 1768–1770,G major,,,"A-KR F 7/212 (600176178), A-LA 1759 (1001011549)"
 130,Tantum ergo,hymns,c. 1768–1770,D minor,,,A-Ssp Hay 1295.1
 131,Ihr Himmel thaut herab,arias,c. 1768–1770,B-flat major,,,
@@ -175,7 +175,7 @@ id,title,genre,date,key,title_imslp,notes,sources
 173a,Divertimento,divertimentos,c. 1770–1772,G major,,,
 174,Quartetto,quartets,c. 1770–1772,D major,,fragment,
 175,Quartetto,quartets,c. 1770–1772,B-flat major,,,
-176,Cadenze e Versetti,cadenzas ; versets,c. 1770–1772,D minor,"Cadenze e Versetti, MH 176",,
+176,Cadenze e Versetti,cadenzas , versets,c. 1770–1772,D minor,"Cadenze e Versetti, MH 176",
 177,Contrapunctal studies,methods,c. 1770–1772,-,,,
 178,Dank dem Geber,songs,c. 1770–1772,C major,,,
 179,Divertimento,divertimentos,c. 1770–1772,C major,"Divertimento in C major, MH 179",,
@@ -322,7 +322,7 @@ id,title,genre,date,key,title_imslp,notes,sources
 320,Marcia,marches,1782-05-31,D major,,,
 321,Vesperae de Dominica,vespers,1782-07-22,C major,"Vesperae de Dominica, MH 321",,
 322,Missa in honorem Sancti Ruperti,masses,1782-08-11,C major,,,
-323,Applicatio,sacred cantatas,1782-08-24,G major,,"movements reworked into MH 324, 325, and 673",
+323,Applicatio,sacred cantatas,1782-08-24,G major,"Applicatio, MH 323","movements reworked into MH 324, 325, and 673",
 324,In adoratione nostra,offertories,after 1782-08-24,G major,,derived from MH 323,
 325,Cantate Domino,offertories,after 1782-08-24,E-flat major,,derived from MH 323,
 326,Veni creator spiritus,hymns,1782-08-26,C major,,,
@@ -434,8 +434,8 @@ id,title,genre,date,key,title_imslp,notes,sources
 432,Marcia,marches,c. 1787,D major,,,
 433,Beispiele zur Übung im bezifferten Grundbaß,methods,c. 1787,-,,,
 434,Contrapunctal studies,methods,c. 1787,-,,,
-435,"Prelude, versets and cadenzas",preludes ; versets ; cadenzas,c. 1787,F major,,,
-436,Preludes and finale,preludes ; finales,c. 1787,A minor,,,
+435,"Prelude, versets and cadenzas",preludes , versets , cadenzas,c. 1787,F major,
+436,Preludes and finale,preludes , finales,c. 1787,A minor,,
 437,Emicat meridies,sequences,1787-01-04,F major,,,
 438,Andromeda e Perseo,opera seria,1787-03-14,C major,,,
 439,Marcia,marches,1787-05-28,D major,,,
