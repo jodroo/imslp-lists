@@ -129,7 +129,7 @@ id,title,genre,date,key,title_imslp,notes,sources
 128,Regina coeli,antiphons,c. 1768–1770,D major,"Regina coeli, MH 128",spurious attribution,
 129,Salve Regina,antiphons,c. 1768–1770,G major,,,"A-KR F 7/212 (600176178), A-LA 1759 (1001011549)"
 130,Tantum ergo,hymns,c. 1768–1770,D minor,,,A-Ssp Hay 1295.1
-131,Ihr Himmel thaut herab,arias,c. 1768–1770,B-flat major,,,
+131,Ihr Himmel thaut herab,arias,c. 1768–1770,B-flat major,"Ihr Himmel thaut herab, MH 131",,
 132,Sinfonia,sinfonias,c. 1768–1770,D major,,,
 133,Sinfonia,sinfonias,c. 1768–1770,B-flat major,,,
 134,Concerto,concertos,c. 1768–1770,D major,,,
@@ -138,12 +138,12 @@ id,title,genre,date,key,title_imslp,notes,sources
 137,6 Menuetti,minuets,c. 1768–1770,C major,,,
 138,Der reumütige Petrus,sacred oratorios,1770-03-11,B-flat major,,"“Der Gerechte” (part 1, no. 3) reworked as offertorium MH 139",
 139,Tota pulchra es,offertories,after 1770-03-11,D major,,contrafactum of movement in MH 138,A-KR D 25/332 (600176365)
-140,Ave Regina,antiphons,1770-03-23,F major,,,
+140,Ave Regina,antiphons,1770-03-23,F major,"Ave Regina, MH 140",,
 141,Ballet,ballets,1770-07-16,A major,,three movements reused in MH 150,
-142,Cantate Domino,offertories,c. 1770,E minor,,adopted from lost school drama “Pietas christiana”,
-143,Sicut cervus,offertories,c. 1770,F major,,adopted from lost school drama “Pietas christiana”,
+142,Cantate Domino,offertories,c. 1770,E minor,"Cantate Domino, MH 142",adopted from lost school drama “Pietas christiana”,
+143,Sicut cervus,offertories,c. 1770,F major,"Sicut cervus ad fluenta, MH 143",adopted from lost school drama “Pietas christiana”,
 144,Quid video superi?,sacred cantatas,1770-11-14,G major,"Applausus, MH 144",sinfonia reused in MH 181,
-145,Te Deum,te deum,1770-12-09,C major,,,
+145,Te Deum,te deum,1770-12-09,C major,"Te Deum, MH 145",,
 146,Anima nostra,offertories,1771,D major,,,A-LA 1537 (1001011113)
 147,Der büßende Sünder,sacred oratorios,1771-02-15,D minor,"Der büßende Sünder, MH 147",,
 148,Hermann,pantomimes,1771-08-01,C major,"Hermann, MH 148",movements reworked into MH 149–153,
@@ -179,7 +179,7 @@ id,title,genre,date,key,title_imslp,notes,sources
 177,Contrapunctal studies,methods,c. 1770–1772,-,,,
 178,Dank dem Geber,songs,c. 1770–1772,C major,,,
 179,Divertimento,divertimentos,c. 1770–1772,C major,"Divertimento in C major, MH 179",,
-180,"Kommt her, ihr Menschen",arias,1772-01-13,C major,,,
+180,"Kommt her, ihr Menschen",arias,1772-01-13,C major,"Kommt her, ihr Menschen, MH 180",,
 181,Der gute Hirt,sacred cantatas,1772-04-04,G major,,reuses sinfonia of MH 144,
 182,Missa Sancti Joannis Nepomuceni,masses,1772-05-21,C major,"Missa Sancti Joannis Nepomuceni, MH 182",,
 183,Tres sunt,offertories,1772-06-07,C major,"Tres sunt qui testimonium dant in caelo, MH 183",,
@@ -212,7 +212,7 @@ id,title,genre,date,key,title_imslp,notes,sources
 210,6 Menuetti,minuets,c. 1773–1775,A major,,,
 211,Marcia,marches,c. 1773–1775,D major,,,
 212,Litaniae de Beata Virgine Maria,litanies,c. 1775,C major,,,
-213,Responsoria,responsories,c. 1775,C major,,,
+213,Responsoria,responsories,c. 1775,C major,"Responsoria, MH 213",,
 214,Vesperae de Confessore,vespers,c. 1775,C major,"Vesperae de Confessore, MH 214",,"A-RB IV.95, D-Po M. Haydn 108 (456002640)"
 215,Lauda Sion,sequences,1775,G major,"Lauda Sion, MH 215",,
 216,Gibt acht ihr Hirten,arias,1775,G major,,,A-Ssp Hay 1670.1
@@ -220,10 +220,10 @@ id,title,genre,date,key,title_imslp,notes,sources
 218,Die Hochzeit auf der Alm (Supplemental music),operettas,1776,G minor,,supplements MH 107,
 219,Gerechter Herr und Gott,arias,c. 1776,F major,,,A-Ssp Hay 1655.1
 220,Marcia,marches,c. 1776,D major,,,
-221,Alma Dei creatoris,offertories,1776,E-flat major,,,A-RB R 195 (600033573)
+221,Alma Dei creatoris,offertories,1776,E-flat major,"Alma Dei creatoris, MH 221",,A-RB R 195 (600033573)
 222,Deus refugium,offertories,1776,F major,,,"A-KR D 17/112 (600176558), D-Mbs Mus.ms. 840 (456009522), A-LA 1390 (603002671)"
 223,Dignare me,offertories,1776,G major,,,A-Ssp Hay 1510.1
-224,Inveni David,offertories,1776,G major,,,
+224,Inveni David,offertories,1776,G major,"Inveni David, MH 224",,
 225,Justorum animae,offertories,1776,A major,,,"A-LA 1765 (1001011691), A-LA 1376 (603002657), A-KR D 16/107 (600176342), D-Mbs Mus.ms. 282-8 (456009335)"
 226,Quae est ista,offertories,1776,G major,,,"HR-Zha LXVI.N (500027078), A-Sd A 540 (659000615)"
 227,Ave Regina,antiphons,before 1776-12-01,C major,,,H-Bn Ms.mus IV.1589
@@ -247,40 +247,40 @@ id,title,genre,date,key,title_imslp,notes,sources
 245,"Senza di te, ben mio",canons,c. 1777,F major,,,
 246,Se tu mi vuoi,canons,c. 1777,C major,,,
 247,Tre dolci e cari nomi,canons,c. 1777,F major,,,
-248,Posuisti Domine,offertories,1777,F major,,,
+248,Posuisti Domine,offertories,1777,F major,"Posuisti Domine, MH 248",,
 249,Tantum ergo,hymns,1777,C major,,,A-Sd A 566 (659000648)
 250,12 Menuetti,minuets,1777,C major,,,
 251,Partita,partitas,1777-03-02,A minor,,,
 252,Sinfonia,sinfonias,after 1777-03-02,C major,,,
-253,Laeta quies,sequences,1777-03-11,F major,,,
+253,Laeta quies,sequences,1777-03-11,F major,"Laeta quies magni Ducis, MH 253",,
 254,Missa Sancti Hieronymi,masses,1777-09-14,C major,"Missa Sancti Hieronymi, MH 254",,
 255,Zaire,incidental music,1777-09-29,D major,,,
 256,Timete Dominum,offertories,1777-10-29,G major,,“Alleluia” reused in MH 385,"A-LA 1375 (603002656), A-Ee"
 257,Missa Sancti Aloysii,masses,1777-12-21,B-flat major,,,
 258,Litaniae de Beata Virgine Maria,litanies,c. 1775–1778,E major,,,
-259,Quicunque manducaverit,offertories,c. 1775–1778,G minor,,,
+259,Quicunque manducaverit,offertories,c. 1775–1778,G minor,"Quicunque manducaverit, MH 259",,
 260,Laudate Dominum,offertories,c. 1775–1778,C major,,,A-Wn Mus.Hs.22452
-261,Caelitum Joseph,offertories,c. 1775–1778,F major,,,"A-LA 1389 (603002670), A-RB R 228 (600033606)"
+261,Coelitum Joseph,offertories,c. 1775–1778,F major,"Coelitum Joseph, MH 261",spurious attribution,"A-LA 1389 (603002670), A-RB R 228 (600033606)"
 262,Cantata pro Festo Nativitatis,sacred cantatas,c. 1775–1778,D major,,incomplete,
-263,Regina coeli,antiphons,c. 1775–1778,C major,,,
-264,Regina coeli,antiphons,c. 1775–1778,B-flat major,,,A-RB R 207 (600033585)
+263,Regina coeli,antiphons,c. 1775–1778,C major,"Regina coeli, MH 263",,
+264,Regina coeli,antiphons,c. 1775–1778,B-flat major,"Regina coeli, MH 264",,A-RB R 207 (600033585)
 265,Tantum ergo,hymns,c. 1775–1778,C major,,,A-Wn Mus.Hs.22458
 266,"Erhebe, o Sünder",offertories,c. 1775–1778,F major,,,A-Ssp Hay 1635.1
 267,Auf! Ihr Christen,arias,c. 1775–1778,F major,,,"F-Pn D-5983/1 (840016784), A-Ssp Hay 1690.1"
 268,Concerto,concertos,c. 1776–1778,F major,"Harpsichord Concerto in F major, MH 268",,
-269,Canta Jerusalem,offertories,1778,A major,,,
-270,Alma redemptoris mater,antiphons,1778,E-flat major,,,
+269,Canta Jerusalem,offertories,1778,A major,"Canta Jerusalem, MH 269",,
+270,Alma redemptoris mater,antiphons,1778,E-flat major,"Alma Redemptoris mater, MH 270",,
 271,Der Tod Abels (Supplemental music),singspiele,1778,E-flat major,,supplements Johann Heinrich Rolle’s “Der Tod Abels”,
 272,Sinfonia,sinfonias,1778,D major,,,
 273,Divertimento,divertimentos,1778,G major,,,
 274,12 Menuetti,minuets,1778,C major,,,
-275,Sub vestrum praesidium,offertories,1778-03-15,F major,,,
+275,Sub vestrum praesidium,offertories,1778-03-15,F major,"Sub vestrum praesidium, MH 275",,
 276,Responsoria ad Matutinum in Coena Domini,responsories,1778-04-04,B-flat major,"Responsoria in Coena Domini, MH 276",,
-277,Responsoria in Parasceve,responsories,1778-04-04,F major,,,
-278,Responsoria in Sabbato Sancto,responsories,1778-04-04,C major,,,
+277,Responsoria in Parasceve,responsories,1778-04-04,F major,"Responsoria in Parasceve, MH 277",,
+278,Responsoria in Sabbato Sancto,responsories,1778-04-04,C major,"Responsoria in Sabbato Sancto, MH 278",,
 279,Applicatio,sacred cantatas,1778-06-07,D major,Applicatio,parts reworked in to MH 607,
 280,De profundis,sequences,1778-08-26,F major,,,H-Bn Ms.mus II.39 (530001711)
-281,Diffusa est gratia,offertories,1778-11-16,C major,,,
+281,Diffusa est gratia,offertories,1778-11-16,C major,"Diffusa est gratia, MH 281",,
 282,Litaniae de Beata Virgine Maria,litanies,c. 1779,F major,,,
 283,Salve Regina,antiphons,1779,B-flat major,,,
 284,Sinfonia,sinfonias,1779-08-22,F major,,,
