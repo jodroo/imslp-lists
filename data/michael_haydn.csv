@@ -282,7 +282,7 @@ id,title,genre,date,key,title_imslp,notes,sources
 280,De profundis,sequences,1778-08-26,F major,,,H-Bn Ms.mus II.39 (530001711)
 281,Diffusa est gratia,offertories,1778-11-16,C major,"Diffusa est gratia, MH 281",,
 282,Litaniae de Beata Virgine Maria,litanies,c. 1779,F major,,,
-283,Salve Regina,antiphons,1779,B-flat major,,,
+283,Salve Regina,antiphons,1779,B-flat major,"Salve Regina, MH 283",,
 284,Sinfonia,sinfonias,1779-08-22,F major,,,
 285,Der englische Patriot,singspiele,c. 1778–1780,B-flat major,,movement reworked into MH 286,
 286,Justorum animae,offertories,c. 1778–1780,B-flat major,,uses material from MH 285,A-LA 1537
@@ -323,14 +323,14 @@ id,title,genre,date,key,title_imslp,notes,sources
 321,Vesperae de Dominica,vespers,1782-07-22,C major,"Vesperae de Dominica, MH 321",,
 322,Missa in honorem Sancti Ruperti,masses,1782-08-11,C major,,,
 323,Applicatio,sacred cantatas,1782-08-24,G major,"Applicatio, MH 323","movements reworked into MH 324, 325, and 673",
-324,In adoratione nostra,offertories,after 1782-08-24,G major,,derived from MH 323,
+324,In adoratione nostra,offertories,after 1782-08-24,G major,"In adoratione nostra, MH 324",derived from MH 323,
 325,Cantate Domino,offertories,after 1782-08-24,E-flat major,,derived from MH 323,
-326,Veni creator spiritus,hymns,1782-08-26,C major,,,
-327,Surgite Sancti,antiphons,1782-08-27,F major,,,
-328,Sancti Dei omnes,antiphons,1782-08-27,F major,,,
-329,Jesu redemptor omnium,hymns,1782-08-27,C major,,,
+326,Veni creator spiritus,hymns,1782-08-26,C major,"Veni creator Spiritus, MH 326",,
+327,Surgite Sancti,antiphons,1782-08-27,F major,"Surgite Sancti Dei, MH 327",,
+328,Sancti Dei omnes,antiphons,1782-08-27,F major,"Sancti Dei omnes, MH 328",,
+329,Jesu redemptor omnium,hymns,1782-08-27,C major,"Jesu Redemptor omnium, MH 329",,
 330,Litaniae della Madonna,litanies,1782-12-24,D major,,,
-331,Ex ore infantium,introits,1782-12-26,A minor,,,A-RB IV.70
+331,Ex ore infantium,introits,1782-12-26,A minor,"Ex ore infantium, MH 331",,A-RB IV.70
 332,Alme Deus,offertories,1783,C major,,,A-LA 1378 (603002659)
 333,6 Menuetti,minuets,1783-02-07,C major,,,
 334,Sinfonia,sinfonias,1783-05-23,G major,"Symphony No.25 in G major, MH 334",,
@@ -341,18 +341,18 @@ id,title,genre,date,key,title_imslp,notes,sources
 339,Marcia,marches,1783-08-03,D major,,,
 340,Sinfonia,sinfonias,1783-08-14,E-flat major,,,
 341,Viderunt omnes,graduals,1783-12-06,F major,"Viderunt omnes, MH 341",,
-342,Alleluia. Laudate pueri,graduals,1783-12-12,F major,,,
-343,Sederunt principes,graduals,1783-12-17,G major,,,
-344,Hic est discipulus,graduals,1783-12-21,B-flat major,,,
+342,Alleluia. Laudate pueri,graduals,1783-12-12,F major,"Laudate pueri, MH 342",,
+343,Sederunt principes,graduals,1783-12-17,G major,"Sederunt principes, MH 343",,
+344,Hic est discipulus,graduals,1783-12-21,B-flat major,"Hic est discipulus ille, MH 344",,
 345,Ecce sacerdos,graduals,1783-12-24,E minor,"Ecce sacerdos, MH 345",,
 346,Sub tuum praesidium,offertories,c. 1782–1784,C major,,,D-Mbs Mus.ms. 5148 (450109655)
 347,Salve Regina,antiphons,c. 1782–1784,F major,,,A-Wn Mus.Hs.18558
 348,Benedictus es Domine,graduals,c. 1782–1784,G major,,,A-KR C 55/117 (600176194)
 349,"Freundschaft, du Zucker",duets,1784,F major,,lost,
-350,Omnes de Saba,graduals,1784-01-02,G major,,,
+350,Omnes de Saba,graduals,1784-01-02,G major,"Omnes de Saba venient, MH 350",,
 351,Salvos fac nos,graduals,1784-01-08,G minor,"Salvos fac nos, MH 351",,
-352,Gloriosus Deus,graduals,1784-01-12,C major,,,
-353,Tu es vas electionis,graduals,1784-01-16,A major,,,
+352,Gloriosus Deus,graduals,1784-01-12,C major,"Gloriosus Deus, MH 352",,
+353,Tu es vas electionis,graduals,1784-01-16,A major,"Tu es vas electionis, MH 353",,
 354,6 Menuetti,minuets,1784-01-23,A major,,,
 355,Nunc dimittis,graduals,1784-01-29,D major,,,
 356,Ab ortu solis,graduals,1784-02-05,B-flat major,,,
