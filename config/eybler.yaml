@@ -1,0 +1,23 @@
+page_header: |
+  {{worklist|Eybler, Joseph}}
+
+  {{Bluebox|'''Note''': This page is semi-automatically generated from [https://github.com/edition-esser-skala/imslp-lists/blob/main/data/eybler.csv this table]. Thus, any changes or corrections should be preferably entered in the source table.}}
+
+  The table below gives the following information (where applicable):
+  * '''HerEy''' — numbering as given in Hildegard Herrmann, Thematisches Verzeichnis der Werke von Joseph Eybler (Musikverlag Emil Katzbichler, München–Salzburg, 1976).
+  * '''Title''' — as used on IMSLP.
+  * '''Key''' — the principal key of the work.
+  * '''Date''' — the year(s) of composition or arrangement, where known.
+  * '''Genre''' — as used by IMSLP's categorization system.
+  * '''Scoring''' — the instrumentation used.
+  * '''Notes''' — concerning related works, completeness, authorship, etc.
+
+  {| class="sortable wikitable" style="font-size:95%; width: 98%; vertical-align: top; border: 1px solid #AAA"
+  ! width="6%"|HerEy
+  ! width="35%"|Title
+  ! width="6%"|Key
+  ! width="10%"|Date
+  ! width="6%"|Genre
+  ! width="37%"|Notes
+  |-
+composer_imslp: Eybler|Joseph
