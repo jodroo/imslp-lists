@@ -62,7 +62,7 @@ id,title,genre,date,key,title_imslp,composer_imslp,notes
 61,Dies sanctificatus,graduals,1827,G major,"Dies sanctificatus, HV 61",,
 62,Dominus in Sina in sancto,graduals,1831,G major,"Dominus in Sina in sancto, HerEy 62",,
 63,Tu Domine Pater noster,graduals,1836,G major,"Tu Domine pater noster, HerEy 63",,
-64,Benedictus es,graduals,1834,A-flat major,,,
+64,Benedictus es,graduals,1834,A-flat major,"Benedictus es, Domine HerEy 64",,
 65,Ave Maria gratia plena,graduals,1819,A major,,,
 66,Cantate Domino,graduals,1803,A major,,,"wrong attribution (actually by Michael Haydn, MH 828)"
 67,Magnificate Dominum mecum,graduals,1802,B-flat major,,,
@@ -116,7 +116,7 @@ id,title,genre,date,key,title_imslp,composer_imslp,notes
 115,Te Deum,te deums,1814,C major,,,
 116,Te Deum,te deums,1824,C major,,,
 117,Te Deum,te deums,?,C major,"Te Deum, HerEy 117",,
-118,Te Deum,te deums,1800,D major,,,
+118,Te Deum,te deums,1800,D major,"Te Deum, HerEy 118",,
 119,Te Deum,te deums,1819,D major,,,
 120,Te Deum,te deums,1802,B-flat major,,,
 121,Veni Sancte Spiritus,hymns,1818,C major,,,
